@@ -1,6 +1,6 @@
-*user say desire configration then modal prediction Realtime Price in market
+## user say desire configration then modal prediction Realtime Price in market
 
-Total 6 stages:-
+# Total 6 stages:-
 
 1. data cleaning 
 2. data analysis (EDA)
@@ -9,9 +9,9 @@ Total 6 stages:-
 5. website
 6. deployment
 
-Note- Please Install sklearn version 0.24.2
+### Note- Please Install sklearn version 0.24.2
 
-For Model Test - 
+# For Model Test - 
 	1.Open app.py file 
 	2.open teminal window 
 	3.type- streamlit run app.py 
@@ -19,4 +19,4 @@ For Model Test -
 
 In this below video I explained about whole project and showed demo of project working
 👇👇👇👇👇
-**Video****Link:-**  https://youtu.be/LYH2ogwaWZw
+**Video** **Link:-**  https://youtu.be/LYH2ogwaWZw
