@@ -1,4 +1,4 @@
-#user say desire configration then modal prediction Realtime Price in market
+*user say desire configration then modal prediction Realtime Price in market
 
 Total 6 stages:-
 
@@ -16,3 +16,7 @@ For Model Test -
 	2.open teminal window 
 	3.type- streamlit run app.py 
 	4.get link and open the link on browser 
+
+In this below video I explained about whole project and showed demo of project working
+👇👇👇👇👇
+*Video Link:-*  https://youtu.be/LYH2ogwaWZw
